@@ -1,7 +1,7 @@
 LOCAL_REPO_BASEDIR := $(realpath .)
 PARENT_DIR := $(realpath ..)
 
-GIT_REPOS_BASENAME := kritik
+GIT_REPO_BASENAME := kritik
 
 
 define HELP_TEXT
